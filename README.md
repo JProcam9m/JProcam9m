@@ -38,7 +38,7 @@ focus:
 stack:
   languages:
     - "Python (Flask, DJango)"
-    - "JavaScript (Node.js)"
+    - "JavaScript (Node.js) In Progress"
     - "C++ Enthusiast"
   ai_and_automation:
     - "Prompt Engineering"
