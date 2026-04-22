@@ -57,7 +57,7 @@ stack:
 contact:
   instagram: "jvdeveloper"
   github: "JProcam9m"
-  linkedin: "https://www.linkedin.com/in/joaovdpires/"
+  linkedin: "joaovdpires"
 ```
 
 ## 🚀 Cursos e Especializações
