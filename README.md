@@ -52,6 +52,7 @@ stack:
     - "Git / GitHub Actions"
     - "Docker"
     - "Linux"
+    - "Windows"
     - "VS Code"
 
 contact:
